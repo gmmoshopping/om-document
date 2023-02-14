@@ -1,0 +1,134 @@
+{
+    "messagesboxs":"200",
+    "result":[{
+        "TeamCode":"6f34472d-a9ec-439d-98e2-5b37d326273d",
+        "NameTh":"Team A",
+        "NameEng":"Team A",
+        "ParentId":0,
+        "OwerCode":"OSP901",
+        "OwerNameTh":"ภาคภูมิ  โฉมฉาย",
+        "OwerNameEng":"Mr.Pakpoom  Chomchay",
+        "SubTeam":[{
+            "NameTh":"Team A promotion",
+            "NameEng":"Team A promotion",
+            "ParentId":1,
+            "OwerCode":"OSP962",
+            "OwerNameTh":"เชิดพงศ์  พึงต่อกิจ",
+            "OwerNameEng":"Mr.Cherdpong  Phungtorkit",            
+            "TeamList": [{
+                "Empcode":"OSP928",
+                "EmpNameTh":"สราวุฒิ  ยังอุ่น",
+                "EmpNameEng":"Mr.Sarawoot  Youngoun"               
+            }]
+        },{
+            "NameTh":"Team A call out",
+            "NameEng":"Team A  call out",
+            "ParentId":1,
+            "OwerCode":"OSP865",
+            "OwerNameTh":"ภานุวัฒน์  นามมุงคุณ",
+            "OwerNameEng":"Mr.Panuwat  Nammungkhun",
+            "SubTeam":[{
+                "NameTh":"Team A promotion",
+                "NameEng":"Team A promotion",
+                "ParentId":1,
+                "OwerCode":"OSP962",
+                "OwerNameTh":"เชิดพงศ์  พึงต่อกิจ",
+                "OwerNameEng":"Mr.Cherdpong  Phungtorkit",            
+                "TeamList": [{
+                    "Empcode":"OSP922",
+                    "EmpNameTh":"เฉลิมเดช  มานะเสถียร",
+                    "EmpNameEng":"Mr.Chalearmdet  Manasatien"               
+                }]
+            }]
+        },{
+            "NameTh":"Team A call In",
+            "NameEng":"Team A  call In",
+            "ParentId":1,
+            "OwerCode":"OSP901",
+            "OwerNameTh":"ภาคภูมิ  โฉมฉาย",
+            "OwerNameEng":"Mr.Pakpoom  Chomchay",
+            "SubTeam":[{
+                "NameTh":"Team A promotion",
+                "NameEng":"Team A promotion",
+                "ParentId":1,
+                "OwerCode":"OSP857",
+                "OwerNameTh":"กฤตานน  แก้วเตชะ",
+                "OwerNameEng":"Mr.Kritanon  Kaewtacha",            
+                "TeamList": [{
+                    "Empcode":"OSP663",
+                    "EmpNameTh":"อนวัช  ริมปิกุล",
+                    "EmpNameEng":"Mr.Anawat  Rimpikul"               
+                },{
+                    "Empcode":"OSP911",
+                    "EmpNameTh":"วิวัฒนา  จรูญกุล",
+                    "EmpNameEng":"Mr.Wiwatthana  Jaroonkun"           
+                }]
+            }]
+        }]
+    },{
+        "TeamCode":"6f34472d-a9ec-439d-98e2-5b37d326273d",
+        "NameTh":"Team B",
+        "NameEng":"Team B",
+        "ParentId":0,
+        "OwerCode":"OSP901",
+        "OwerNameTh":"ภาคภูมิ  โฉมฉาย",
+        "OwerNameEng":"Mr.Pakpoom  Chomchay",
+        "SubTeam":[{
+            "NameTh":"Team B promotion",
+            "NameEng":"Team B promotion",
+            "ParentId":1,
+            "OwerCode":"OSP962",
+            "OwerNameTh":"เชิดพงศ์  พึงต่อกิจ",
+            "OwerNameEng":"Mr.Cherdpong  Phungtorkit",            
+            "TeamList": [{
+                "Empcode":"OSP928",
+                "EmpNameTh":"สราวุฒิ  ยังอุ่น",
+                "EmpNameEng":"Mr.Sarawoot  Youngoun"               
+            }]
+        },{
+            "NameTh":"Team B call out",
+            "NameEng":"Team B  call out",
+            "ParentId":1,
+            "OwerCode":"OSP865",
+            "OwerNameTh":"ภานุวัฒน์  นามมุงคุณ",
+            "OwerNameEng":"Mr.Panuwat  Nammungkhun",
+            "SubTeam":[{
+                "NameTh":"Team B promotion",
+                "NameEng":"Team B promotion",
+                "ParentId":1,
+                "OwerCode":"OSP962",
+                "OwerNameTh":"เชิดพงศ์  พึงต่อกิจ",
+                "OwerNameEng":"Mr.Cherdpong  Phungtorkit",            
+                "TeamList": [{
+                    "Empcode":"OSP922",
+                    "EmpNameTh":"เฉลิมเดช  มานะเสถียร",
+                    "EmpNameEng":"Mr.Chalearmdet  Manasatien"               
+                }]
+            }]
+        },{
+            "NameTh":"Team B call In",
+            "NameEng":"Team B  call In",
+            "ParentId":1,
+            "OwerCode":"OSP901",
+            "OwerNameTh":"ภาคภูมิ  โฉมฉาย",
+            "OwerNameEng":"Mr.Pakpoom  Chomchay",
+            "SubTeam":[{
+                "NameTh":"Team B promotion",
+                "NameEng":"Team B promotion",
+                "ParentId":1,
+                "OwerCode":"OSP857",
+                "OwerNameTh":"กฤตานน  แก้วเตชะ",
+                "OwerNameEng":"Mr.Kritanon  Kaewtacha",            
+                "TeamList": [{
+                    "Empcode":"OSP663",
+                    "EmpNameTh":"อนวัช  ริมปิกุล",
+                    "EmpNameEng":"Mr.Anawat  Rimpikul"               
+                },{
+                    "Empcode":"OSP911",
+                    "EmpNameTh":"วิวัฒนา  จรูญกุล",
+                    "EmpNameEng":"Mr.Wiwatthana  Jaroonkun"           
+                }]
+            }]
+        }]        
+    }]
+}

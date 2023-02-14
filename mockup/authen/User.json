@@ -1,0 +1,504 @@
+{
+    "messagesboxs": "200",
+    "result": [
+        {
+            "Empcode": "OSP922",
+            "NameTh": "เฉลิมเดช  มานะเสถียร",
+            "NameEng": "Mr.Chalearmdet  Manasatien",
+            "DepartmentCode": "300304",
+            "Department": "Information Technology",
+            "ParentId": 0,
+            "SubDeparment": "",
+            "Position": "Business Analysis & Application Support",
+            "Email": "chalearmdet.man@gmmoshopping.com",
+            "Teamcode": "22001",
+            "SubTeamCode": [
+                {
+                    "SubTeamCode": "1001",
+                    "SubTeamName": "A1",
+                    "SubTeamStatus": true
+                },
+                {
+                    "SubTeamCode": "1002",
+                    "SubTeamName": "A2",
+                    "SubTeamStatus": true
+                },
+                {
+                    "SubTeamCode": "1003",
+                    "SubTeamName": "A3",
+                    "SubTeamStatus": false
+                }
+            ],
+            "StatusAppove": [
+                {
+                    "DocumentFlow": true
+                },
+                {
+                    "AppoveFlow": true
+                },
+                {
+                    "AppoveBudget": false
+                }
+            ],
+            "MobileVoice": [
+                {
+                    "code": "1",
+                    "label": "3CX",
+                    "serial_number": "8999-99999"
+                },
+                {
+                    "code": "2",
+                    "label": "AVAYA",
+                    "serial_number": "ASDF-8999-99999"
+                },
+                {
+                    "code": "3",
+                    "label": "Other",
+                    "serial_number": "8999"
+                }
+            ],
+            "UserLogin": [
+                {
+                    "LoginCode": "OSP901",
+                    "PolicyCode": "",
+                    "PolicyNameEng": "",
+                    "PolicyNameTh": "",
+                    "AuthenCode": "",
+                    "AuthenName": "",
+                    "ModuleCode": "",
+                    "ModuleGroup":[{
+                        "id": 1,
+                        "label": "menuitems.menu.text",
+                        "isTitle": true
+                      },
+                      {
+                        "id": 2,
+                        "label": "menuitems.dashboards.text",
+                        "icon": "bx-home-circle",
+                        "link": "/dashboards"
+                      },
+                      {
+                        "id": 3,
+                        "isLayout": true
+                      },
+                      {
+                        "id": 4,
+                        "label": "menuitems.adminsystem.text",
+                        "icon": "bx bx-user-circle",
+                        "subItems": [
+                          {
+                            "id": 5,
+                            "label": "menuitems.adminsystem.list.setmenu",
+                            "link": "/setmenu",
+                            "icon": "bx bx-cog",
+                            "parentid": 4
+                          },
+                          {
+                            "id": 6,
+                            "label": "menuitems.adminsystem.list.setteam",
+                            "link": "/setteam",
+                            "icon": "bx bxs-user-account",
+                            "parentid": 4
+                          },
+                          {
+                            "id": 7,
+                            "label": "menuitems.adminsystem.list.setuser",
+                            "link": "/setuser",
+                            "icon": "bx bxs-user-plus",
+                            "parentid": 4
+                          },
+                          {
+                            "id": 8,
+                            "label": "menuitems.adminsystem.list.setrole",
+                            "link": "/setrole",
+                            "icon": "bx bxs-user-detail",
+                            "parentid": 4
+                          },
+                          {
+                            "id": 9,
+                            "label": "menuitems.adminsystem.list.employee",
+                            "link": "/employee",
+                            "icon": "bx bxs-user-detail",
+                            "parentid": 4
+                          }
+                        ]
+                      },
+                      {
+                        "id": 10,
+                        "label": "menuitems.customer_order.text",
+                        "icon": "bx bx-store",
+                        "subItems": [
+                          {
+                            "id": 11,
+                            "label": "menuitems.customer_order.list.customerlist",
+                            "link": "/customerlist",
+                            "icon": "bx bx-money",
+                            "parentid": 10
+                          },
+                          {
+                            "id": 12,
+                            "label": "menuitems.customer_order.list.orderlist",
+                            "link": "/orderlist",
+                            "icon": "bx bxs-store-al",
+                            "parentid": 10
+                          },
+                          {
+                            "id": 13,
+                            "label": "menuitems.customer_order.list.ib_sale",
+                            "link": "/ib_sale",
+                            "icon": "bx bxs-shopping-bag",
+                            "parentid": 10
+                          },
+                          {
+                            "id": 14,
+                            "label": "menuitems.customer_order.list.ob_sale",
+                            "link": "/ob_sale",
+                            "icon": "bx bxs-shopping-bags",
+                            "parentid": 10
+                          },
+                          {
+                            "id": 15,
+                            "label": "menuitems.customer_order.list.productlist",
+                            "link": "/productlist",
+                            "icon": "bx bx-money",
+                            "parentid": 10
+                          },
+                          {
+                            "id": 16,
+                            "label": "menuitems.customer_order.list.allocate",
+                            "link": "/allocate",
+                            "icon": "bx bx-money",
+                            "parentid": 10
+                          },
+                          {
+                            "id": 17,
+                            "label": "menuitems.customer_order.list.complaintsliset",
+                            "link": "/complaintsliset",
+                            "icon": "bx bx-money",
+                            "parentid": 10
+                          },
+                          {
+                            "id": 18,
+                            "label": "menuitems.customer_order.list.orderhistory",
+                            "link": "/orderhistory",
+                            "icon": "bx bx-money",
+                            "parentid": 10
+                          },
+                          {
+                            "id": 19,
+                            "label": "menuitems.customer_order.list.phonehistory",
+                            "link": "/phonehistory",
+                            "icon": "bx bx-money",
+                            "parentid": 10
+                          }
+                        ]
+                      },
+                      {
+                        "id": 20,
+                        "label": "menuitems.merchandise.text",
+                        "icon": "bx bx-user-circle",
+                        "subItems": [
+                          {
+                            "id": 21,
+                            "label": "menuitems.merchandise.list.menu1",
+                            "link": "/setmenu",
+                            "icon": "bx bx-cog",
+                            "parentid": 20
+                          },
+                          {
+                            "id": 22,
+                            "label": "menuitems.merchandise.list.menu2",
+                            "link": "/setteam",
+                            "icon": "bx bxs-user-account",
+                            "parentid": 20
+                          }
+                        ]
+                      },
+                      {
+                        "id": 23,
+                        "label": "menuitems.fullfillment.text",
+                        "icon": "bx bxs-building-house",
+                        "subItems": [
+                          {
+                            "id": 24,
+                            "label": "menuitems.fullfillment.list.menu1",
+                            "link": "/setmenu",
+                            "icon": "bx bxs-building-house",
+                            "parentid": 23
+                          },
+                          {
+                            "id": 25,
+                            "label": "menuitems.fullfillment.list.menu2",
+                            "link": "/setteam",
+                            "icon": "bx bx-cart-downloadbx bxs-building-house",
+                            "parentid": 23
+                          }
+                        ]
+                      },
+                      {
+                        "id": 26,
+                        "label": "menuitems.settlememt.text",
+                        "icon": "bx bx-task",
+                        "subItems": [
+                          {
+                            "id": 27,
+                            "label": "menuitems.settlememt.list.menu1",
+                            "link": "/setmenu",
+                            "icon": "bx bx-cog",
+                            "parentid": 26
+                          },
+                          {
+                            "id": 28,
+                            "label": "menuitems.settlememt.list.menu2",
+                            "link": "/setteam",
+                            "icon": "bx bxs-user-account",
+                            "parentid": 26
+                          }
+                        ]
+                      },
+                      {
+                        "id": 29,
+                        "label": "menuitems.channelOperation.text",
+                        "icon": "bx bxs-report",
+                        "subItems": [
+                          {
+                            "id": 30,
+                            "label": "menuitems.channelOperation.list.menu1",
+                            "link": "/setmenu",
+                            "icon": "bx bxs-note",
+                            "parentid": 29
+                          },
+                          {
+                            "id": 31,
+                            "label": "menuitems.channelOperation.list.menu2",
+                            "link": "/setteam",
+                            "icon": "bx bxs-chart",
+                            "parentid": 29
+                          }
+                        ]
+                      }]
+                },
+                {
+                    "LoginCode": "MD901",
+                    "PolicyCode": "",
+                    "PolicyNameEng": "",
+                    "PolicyNameTh": "",
+                    "AuthenCode": "",
+                    "AuthenName": "",
+                    "ModuleCode": "",
+                    "ModuleGroup":[{
+                        "id": 1,
+                        "label": "menuitems.menu.text",
+                        "isTitle": true
+                      },
+                      {
+                        "id": 2,
+                        "label": "menuitems.dashboards.text",
+                        "icon": "bx-home-circle",
+                        "link": "/dashboards"
+                      },
+                      {
+                        "id": 3,
+                        "isLayout": true
+                      },
+                      {
+                        "id": 4,
+                        "label": "menuitems.adminsystem.text",
+                        "icon": "bx bx-user-circle",
+                        "subItems": [
+                          {
+                            "id": 5,
+                            "label": "menuitems.adminsystem.list.setmenu",
+                            "link": "/setmenu",
+                            "icon": "bx bx-cog",
+                            "parentid": 4
+                          },
+                          {
+                            "id": 6,
+                            "label": "menuitems.adminsystem.list.setteam",
+                            "link": "/setteam",
+                            "icon": "bx bxs-user-account",
+                            "parentid": 4
+                          },
+                          {
+                            "id": 7,
+                            "label": "menuitems.adminsystem.list.setuser",
+                            "link": "/setuser",
+                            "icon": "bx bxs-user-plus",
+                            "parentid": 4
+                          },
+                          {
+                            "id": 8,
+                            "label": "menuitems.adminsystem.list.setrole",
+                            "link": "/setrole",
+                            "icon": "bx bxs-user-detail",
+                            "parentid": 4
+                          },
+                          {
+                            "id": 9,
+                            "label": "menuitems.adminsystem.list.employee",
+                            "link": "/employee",
+                            "icon": "bx bxs-user-detail",
+                            "parentid": 4
+                          }
+                        ]
+                      },
+                      {
+                        "id": 10,
+                        "label": "menuitems.customer_order.text",
+                        "icon": "bx bx-store",
+                        "subItems": [
+                          {
+                            "id": 11,
+                            "label": "menuitems.customer_order.list.customerlist",
+                            "link": "/customerlist",
+                            "icon": "bx bx-money",
+                            "parentid": 10
+                          },
+                          {
+                            "id": 12,
+                            "label": "menuitems.customer_order.list.orderlist",
+                            "link": "/orderlist",
+                            "icon": "bx bxs-store-al",
+                            "parentid": 10
+                          },
+                          {
+                            "id": 13,
+                            "label": "menuitems.customer_order.list.ib_sale",
+                            "link": "/ib_sale",
+                            "icon": "bx bxs-shopping-bag",
+                            "parentid": 10
+                          },
+                          {
+                            "id": 14,
+                            "label": "menuitems.customer_order.list.ob_sale",
+                            "link": "/ob_sale",
+                            "icon": "bx bxs-shopping-bags",
+                            "parentid": 10
+                          },
+                          {
+                            "id": 15,
+                            "label": "menuitems.customer_order.list.productlist",
+                            "link": "/productlist",
+                            "icon": "bx bx-money",
+                            "parentid": 10
+                          },
+                          {
+                            "id": 16,
+                            "label": "menuitems.customer_order.list.allocate",
+                            "link": "/allocate",
+                            "icon": "bx bx-money",
+                            "parentid": 10
+                          },
+                          {
+                            "id": 17,
+                            "label": "menuitems.customer_order.list.complaintsliset",
+                            "link": "/complaintsliset",
+                            "icon": "bx bx-money",
+                            "parentid": 10
+                          },
+                          {
+                            "id": 18,
+                            "label": "menuitems.customer_order.list.orderhistory",
+                            "link": "/orderhistory",
+                            "icon": "bx bx-money",
+                            "parentid": 10
+                          },
+                          {
+                            "id": 19,
+                            "label": "menuitems.customer_order.list.phonehistory",
+                            "link": "/phonehistory",
+                            "icon": "bx bx-money",
+                            "parentid": 10
+                          }
+                        ]
+                      },
+                      {
+                        "id": 20,
+                        "label": "menuitems.merchandise.text",
+                        "icon": "bx bx-user-circle",
+                        "subItems": [
+                          {
+                            "id": 21,
+                            "label": "menuitems.merchandise.list.menu1",
+                            "link": "/setmenu",
+                            "icon": "bx bx-cog",
+                            "parentid": 20
+                          },
+                          {
+                            "id": 22,
+                            "label": "menuitems.merchandise.list.menu2",
+                            "link": "/setteam",
+                            "icon": "bx bxs-user-account",
+                            "parentid": 20
+                          }
+                        ]
+                      },
+                      {
+                        "id": 23,
+                        "label": "menuitems.fullfillment.text",
+                        "icon": "bx bxs-building-house",
+                        "subItems": [
+                          {
+                            "id": 24,
+                            "label": "menuitems.fullfillment.list.menu1",
+                            "link": "/setmenu",
+                            "icon": "bx bxs-building-house",
+                            "parentid": 23
+                          },
+                          {
+                            "id": 25,
+                            "label": "menuitems.fullfillment.list.menu2",
+                            "link": "/setteam",
+                            "icon": "bx bx-cart-downloadbx bxs-building-house",
+                            "parentid": 23
+                          }
+                        ]
+                      },
+                      {
+                        "id": 26,
+                        "label": "menuitems.settlememt.text",
+                        "icon": "bx bx-task",
+                        "subItems": [
+                          {
+                            "id": 27,
+                            "label": "menuitems.settlememt.list.menu1",
+                            "link": "/setmenu",
+                            "icon": "bx bx-cog",
+                            "parentid": 26
+                          },
+                          {
+                            "id": 28,
+                            "label": "menuitems.settlememt.list.menu2",
+                            "link": "/setteam",
+                            "icon": "bx bxs-user-account",
+                            "parentid": 26
+                          }
+                        ]
+                      },
+                      {
+                        "id": 29,
+                        "label": "menuitems.channelOperation.text",
+                        "icon": "bx bxs-report",
+                        "subItems": [
+                          {
+                            "id": 30,
+                            "label": "menuitems.channelOperation.list.menu1",
+                            "link": "/setmenu",
+                            "icon": "bx bxs-note",
+                            "parentid": 29
+                          },
+                          {
+                            "id": 31,
+                            "label": "menuitems.channelOperation.list.menu2",
+                            "link": "/setteam",
+                            "icon": "bx bxs-chart",
+                            "parentid": 29
+                          }
+                        ]
+                      }]
+                }
+            ]
+        }
+    ]
+}

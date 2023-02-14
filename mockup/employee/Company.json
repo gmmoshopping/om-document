@@ -1,0 +1,22 @@
+{
+    "messagesboxs":"200",
+    "result":[{
+        "CompanyCode":"6f34472d-a9ec-439d-98e2-5b37d326273d",
+        "NameTh":"โอ ชอบปิ้ง",
+        "NameEng":"O Shopping",
+        "ParentId":0,
+        "Affiliates":true
+    },{
+        "CompanyCode":"66df9ad9-01bc-4a79-b0f0-81a86b5330b7",
+        "NameTh":"แกรมมี่",
+        "NameEng":"GMM",
+        "ParentId":0,
+        "Affiliates":true
+    },{
+        "CompanyCode":"37a50080-f3a8-438d-90ce-da5bd573c852",
+        "NameTh":" ไทย คอม",
+        "NameEng":"Eng Company",
+        "ParentId":0,
+        "Affiliates": false
+    }]
+}

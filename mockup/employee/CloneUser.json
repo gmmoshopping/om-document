@@ -1,0 +1,58 @@
+{
+    "messagesboxs":"200",
+    "result":[{
+        "MasterUser"[{
+            "Empcode":"OSP928",
+            "NameTh":"สราวุฒิ  ยังอุ่น",
+            "NameEng":"Mr.Sarawoot  Youngoun",
+            "DepartmentCode":"300304",        
+            "Department":"Information Technology",
+            "ParentId":0,
+            "SubDeparment":"",  
+            "Position":"Full Stack Developer",
+            "Email":"sarawoot.you@gmmoshopping.com",
+            "Teamcode":"",
+            "SubTeamCode":[
+                {"SubTeamCode":"1001","SubTeamName":"A1","SubTeamStatus":true},
+                {"SubTeamCode":"1002","SubTeamName":"A2","SubTeamStatus":true},
+                {"SubTeamCode":"1003","SubTeamName":"A3","SubTeamStatus":false}
+            ],            
+            "StatusAppove":[
+                {"Document":true},
+                {"FlowAppove":true}
+            ],
+            "MobileVoice":[
+                {"code":"1","label":"3CX","serial_number":"8999-99999"},
+                {"code":"2","label":"AVAYA","serial_number":"ASDF-8999-99999"},
+                {"code":"3","label":"Other","serial_number":"8999"}
+            ]            
+        }]
+    },{
+        "CloneUser"[{
+            "Empcode":"OSP922",
+            "NameTh":"เฉลิมเดช  มานะเสถียร",
+            "NameEng":"Mr.Chalearmdet  Manasatien",
+            "DepartmentCode":"300304",        
+            "Department":"Information Technology",
+            "ParentId":0,
+            "SubDeparment":"",  
+            "Position":"Business Analysis & Application Support",
+            "Email":"chalearmdet.man@gmmoshopping.com",
+            "Teamcode":"",
+            "SubTeamCode":[
+                {"SubTeamCode":"1001","SubTeamName":"A1","SubTeamStatus":true},
+                {"SubTeamCode":"1002","SubTeamName":"A2","SubTeamStatus":true},
+                {"SubTeamCode":"1003","SubTeamName":"A3","SubTeamStatus":false}
+            ],            
+            "StatusAppove":[
+                {"Document":true},
+                {"FlowAppove":true}
+            ],
+            "MobileVoice":[
+                {"code":"1","label":"3CX","serial_number":"8999-99999"},
+                {"code":"2","label":"AVAYA","serial_number":"ASDF-8999-99999"},
+                {"code":"3","label":"Other","serial_number":"8999"}
+            ]            
+        }]
+    }]
+}

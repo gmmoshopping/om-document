@@ -1,0 +1,103 @@
+{
+    "messagesboxs": "200",
+    "result": [
+        {
+            "Organization": [
+                {
+                    "OrganizationCode": "6fe03b88-f9a5-48d6-aad6-fc153ac8586c"
+                },
+                {
+                    "OrganizationName": "O Shopping"
+                }
+            ]
+        },
+        {
+            "Employee": [
+                {
+                    "empcode": "OSP901",
+                    "NameTh": "ภาคภูมิ  โฉมฉาย",
+                    "NameEng": "Mr.Pakpoom  Chomchay",
+                    "Department": "Information Technology",
+                    "SubDeparment": "",
+                    "Position": "IT Senior Manager",
+                    "Email": "pakpoom.cho@gmmoshopping.com",
+                    "Teamcode": "",
+                    "MDCode": "",
+                    "MobileVoice": ""
+                },
+                {
+                    "empcode": "OSP962",
+                    "NameTh": "เชิดพงศ์  พึงต่อกิจ",
+                    "NameEng": "Mr.Cherdpong  Phungtorkit",
+                    "Department": "Information Technology",
+                    "SubDeparment": "",
+                    "Position": "Senior Software Development Manager",
+                    "Email": "cherdpong.phu@gmmoshopping.com",
+                    "Teamcode": "",
+                    "MDCode": "",
+                    "MobileVoice": ""
+                },
+                {
+                    "empcode": "OSP922",
+                    "NameTh": "เฉลิมเดช  มานะเสถียร",
+                    "NameEng": "Mr.Chalearmdet  Manasatien",
+                    "Department": "Information Technology",
+                    "SubDeparment": "",
+                    "Position": "Business Analysis & Application Support",
+                    "Email": "chalearmdet.man@gmmoshopping.com",
+                    "Teamcode": "",
+                    "MDCode": "",
+                    "MobileVoice": ""
+                },
+                {
+                    "empcode": "OSP495",
+                    "NameTh": "ศรุดา  ศรีชญานนท์",
+                    "NameEng": "Ms.Saruda  Srichayanon",
+                    "Department": "Information Technology",
+                    "SubDeparment": "",
+                    "Position": "UI/UX Designer",
+                    "Email": "saruda.sri@gmmoshopping.com",
+                    "Teamcode": "",
+                    "MDCode": "",
+                    "MobileVoice": ""
+                },
+                {
+                    "empcode": "OSP2",
+                    "NameTh": "จามิกร  ทิพยมณฑล",
+                    "NameEng": "Mr.Jamikorn  Tippayamonton",
+                    "Department": "Planning & Media Controller",
+                    "SubDeparment": "",
+                    "Position": "Controller & Planning Senior Director",
+                    "Email": "jamikorn.tip@gmmoshopping.com",
+                    "Teamcode": "",
+                    "MDCode": "",
+                    "MobileVoice": ""
+                },
+                {
+                    "empcode": "OSP552",
+                    "NameTh": "จักรชัย  อนุสนธิอินทรา",
+                    "NameEng": "Mr.Jakchai  Anusonti-inthra",
+                    "Department": "Planning & Media Controller",
+                    "SubDeparment": "BI",
+                    "Position": "Business Analytics Director",
+                    "Email": "jakchai.anu@gmmoshopping.com",
+                    "Teamcode": "22001",
+                    "MDCode": "1047",
+                    "MobileVoice": ""
+                },
+                {
+                    "empcode": "OSP635",
+                    "NameTh": "อังศุมา  บัวแย้ม",
+                    "NameEng": "Ms.Aungsuma  Buayam",
+                    "Department": "Planning & Media Controller",
+                    "SubDeparment": "BI",
+                    "Position": "Business Analytics Assistant Manager",
+                    "Email": "aungsuma.bua@gmmoshopping.com",
+                    "Teamcode": "22001",
+                    "MDCode": "1047",
+                    "MobileVoice": ""
+                }
+            ]
+        }
+    ]
+}

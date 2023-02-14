@@ -1,0 +1,52 @@
+{
+    "messagesboxs":"200",
+    "result":[{
+        "PositionCode":"37a50080-f3a8-438d-90ce-da5bd573c852",
+        "NameTh":"Chief Executive Officer",
+        "NameEng":"Chief Executive Officer",
+        "DepartmentCode":100001,
+        "Department":"Management",
+        "SubDepartment":"",
+        "ParentId":0,
+        "LevelCode":0,
+        "EmpCode":"OSP901",
+        "EmpNameTh":"ภาคภูมิ  โฉมฉาย",
+        "EmpNameEng":"Mr.Pakpoom  Chomchay"
+    },{
+        "PositionCode":"30bc26e0-5c1a-42ab-b812-6bad922779a5",
+        "NameTh":"Chief Finance Officer",
+        "NameEng":"Chief Finance Officer",
+        "DepartmentCode":100001,
+        "Department":"Management",
+        "SubDepartment":"",
+        "ParentId":0,        
+        "LevelCode":0,
+        "EmpCode":"OSP962",
+        "EmpNameTh":"เชิดพงศ์  พึงต่อกิจ",
+        "EmpNameEng":"Mr.Cherdpong  Phungtorkit"
+    },{
+        "PositionCode":"5dcceb0b-0294-465d-9871-58ca71e9bb0a",
+        "NameTh":"CEO Office - Head of Special Project",
+        "NameEng":"CEO Office - Head of Special Project",
+        "DepartmentCode":100001,
+        "Department":"Management",
+        "SubDepartment":"",
+        "ParentId":0,        
+        "LevelCode":0,
+        "EmpCode":"OSP922",
+        "EmpNameTh":"เฉลิมเดช  มานะเสถียร",
+        "EmpNameEng":"Mr.Chalearmdet  Manasatien"
+    },{
+        "PositionCode":"5dcceb0b-0294-465d-9871-58ca71e9bb0a",
+        "NameTh":"Secretary to CFO",
+        "NameEng":"Secretary to CFO",
+        "DepartmentCode":100001,
+        "Department":"Management",
+        "SubDepartment":"",
+        "ParentId":0,
+        "LevelCode":0,
+        "EmpCode":"OSP928",
+        "EmpNameTh":"สราวุฒิ  ยังอุ่น",
+        "EmpNameEng":"Mr.Sarawoot  Youngoun"
+    }]
+}

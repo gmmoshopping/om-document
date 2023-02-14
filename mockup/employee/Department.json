@@ -1,0 +1,96 @@
+{
+    "messagesboxs":"200",
+    "result":[{
+        "DepartmentCode":"6f34472d-a9ec-439d-98e2-5b37d326273d",
+        "NameTh":"Management",
+        "NameEng":"Management",
+        "ParentId":0,
+        "OwerCode":"",
+        "SubDeparment":[]
+    },{
+        "DepartmentCode":"66df9ad9-01bc-4a79-b0f0-81a86b5330b7",
+        "NameTh":"House Products",
+        "NameEng":"House Products",
+        "ParentId":0,
+        "OwerCode":""
+    },{
+        "DepartmentCode":"37a50080-f3a8-438d-90ce-da5bd573c852",
+        "NameTh":" Finance - การเงิน",
+        "NameEng":"Finance - การเงิน",
+        "ParentId":0,
+        "OwerCode": "",
+        "SubDeparment":[]
+    },{
+        "DepartmentCode":"37a50080-f3a8-438d-90ce-da5bd573c852",
+        "NameTh":"Accounting & Budgeting  [ บัญชี ]",
+        "NameEng":"Accounting & Budgeting  [ บัญชี ]",
+        "ParentId":0,
+        "OwerCode": "",
+        "SubDeparment":[]
+    },{
+        "DepartmentCode":"37a50080-f3a8-438d-90ce-da5bd573c852",
+        "NameTh":"HR & ADMIN  [ บุคคลและธุรการ ]",
+        "NameEng":"HR & ADMIN  [ บุคคลและธุรการ ]",
+        "ParentId":0,
+        "OwerCode": "",
+        "SubDeparment":[{
+            "NameTh":" HR",
+            "NameEng":"HR",
+            "ParentId":1,
+            "OwerCode": ""
+        },{
+            "NameTh":"Admin & Procurement",
+            "NameEng":"Admin & Procurement",
+            "ParentId":1,
+            "OwerCode": ""
+        }]
+    },{
+        "DepartmentCode":"37a50080-f3a8-438d-90ce-da5bd573c852",
+        "NameTh":" Legal  [ กฎหมาย ]",
+        "NameEng":"Legal  [ กฎหมาย ]",
+        "ParentId":0,
+        "OwerCode": "",
+        "SubDeparment":[]
+    },{
+        "DepartmentCode":"37a50080-f3a8-438d-90ce-da5bd573c852",
+        "NameTh":" Information Technology ",
+        "NameEng":"Information Technology ",
+        "ParentId":0,
+        "OwerCode": "",
+        "SubDeparment":[]
+    },{
+        "DepartmentCode":"37a50080-f3a8-438d-90ce-da5bd573c852",
+        "NameTh":"TV Programing Strategy",
+        "NameEng":"TV Programing Strategy",
+        "ParentId":0,
+        "OwerCode": "",
+        "SubDeparment":[{
+            "NameTh":"Media Planner",
+            "NameEng":"Media Planner",
+            "ParentId":1,
+            "OwerCode": ""
+        },{
+            "NameTh":"Censorship",
+            "NameEng":"Censorship",
+            "ParentId":1,
+            "OwerCode": ""
+        },{
+            "NameTh":"Platform Strategy / Analysis",
+            "NameEng":"Platform Strategy / Analysis",
+            "ParentId":1,
+            "OwerCode": ""
+        },{
+            "NameTh":"Marketing Support",
+            "NameEng":"Marketing Support",
+            "ParentId":1,
+            "OwerCode": ""
+        }]
+    },{
+        "DepartmentCode":"37a50080-f3a8-438d-90ce-da5bd573c852",
+        "NameTh":"Online",
+        "NameEng":"Online",
+        "ParentId":0,
+        "OwerCode": "",
+        "SubDeparment":[]
+    }]
+}

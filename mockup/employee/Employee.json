@@ -1,0 +1,123 @@
+{
+    "messagesboxs":"200",
+    "result":[{
+        "Empcode":"OSP901",
+        "NameTh":"ภาคภูมิ  โฉมฉาย",
+        "NameEng":"Mr.Pakpoom  Chomchay",
+        "DepartmentCode":"300304",
+        "Department":"Information Technology",
+        "ParentId":0,
+        "SubDeparment":"",
+        "Position":"IT Senior Manager",
+        "Email":"pakpoom.cho@gmmoshopping.com",
+        "Teamcode":"",
+        "MDCode":"",
+        "StatusAppove":"",
+        "MobileVoice":""
+    },{
+        "Empcode":"OSP962",
+        "NameTh":"เชิดพงศ์  พึงต่อกิจ",
+        "NameEng":"Mr.Cherdpong  Phungtorkit",
+        "DepartmentCode":"300304",        
+        "Department":"Information Technology",
+        "ParentId":0,
+        "SubDeparment":"",     
+        "Position":"Senior Software Development Manager",
+        "Email":"cherdpong.phu@gmmoshopping.com",
+        "Teamcode":"",
+        "MDCode":"",
+        "MobileVoice":""
+    },{
+        "Empcode":"OSP922",
+        "NameTh":"เฉลิมเดช  มานะเสถียร",
+        "NameEng":"Mr.Chalearmdet  Manasatien",
+        "DepartmentCode":"300304",        
+        "Department":"Information Technology",
+        "ParentId":0,
+        "SubDeparment":"",  
+        "Position":"Business Analysis & Application Support",
+        "Email":"chalearmdet.man@gmmoshopping.com",
+        "Teamcode":"",
+        "MDCode":"",
+        "MobileVoice":[
+            {"code":"1","label":"3CX","serial_number":"8999-99999"},
+            {"code":"2","label":"AVAYA","serial_number":"ASDF-8999-99999"},
+            {"code":"3","label":"Other","serial_number":"8999"}
+        ]
+    },{
+        "Empcode":"OSP495",
+        "NameTh":"ศรุดา  ศรีชญานนท์",
+        "NameEng":"Ms.Saruda  Srichayanon",
+        "DepartmentCode":"300304",                
+        "Department":"Information Technology",
+        "ParentId":0,
+        "SubDeparment":"",    
+        "Position":"UI/UX Designer",
+        "Email":"saruda.sri@gmmoshopping.com",
+        "Teamcode":"",
+        "MDCode":"",
+        "MobileVoice":""
+    },{
+        "Empcode":"OSP2",
+        "NameTh":"จามิกร  ทิพยมณฑล",
+        "NameEng":"Mr.Jamikorn  Tippayamonton",
+        "DepartmentCode":"200500",                
+        "Department":"Planning & Media Controller",
+        "ParentId":0,
+        "SubDeparment":"",    
+        "Position":"Controller & Planning Senior Director",
+        "Email":"jamikorn.tip@gmmoshopping.com",
+        "Teamcode":"",
+        "MDCode":"",
+        "MobileVoice":""
+    },{
+        "Empcode":"OSP552",
+        "NameTh":"จักรชัย  อนุสนธิอินทรา",
+        "NameEng":"Mr.Jakchai  Anusonti-inthra",
+        "DepartmentCode":"200500",                
+        "Department":"Planning & Media Controller",
+        "ParentId":1,
+        "SubDeparment":"BI",    
+        "Position":"Business Analytics Director",
+        "Email":"jakchai.anu@gmmoshopping.com",
+        "Teamcode":"22001",
+        "MDCode":"1047",
+        "MobileVoice":""
+    },{
+        "Empcode":"OSP635",
+        "NameTh":"อังศุมา  บัวแย้ม",
+        "NameEng":"Ms.Aungsuma  Buayam",
+        "DepartmentCode":"200500",                
+        "Department":"Planning & Media Controller",
+        "ParentId":1,
+        "SubDeparment":"BI",    
+        "Position":"Business Analytics Assistant Manager",
+        "Email":"aungsuma.bua@gmmoshopping.com",
+        "Teamcode":"22001",
+        "SubTeamCode"[
+            {"SubTeamCode":"1001","SubTeamName":"A1","SubTeamStatus":true},
+            {"SubTeamCode":"1002","SubTeamName":"A2","SubTeamStatus":true},
+            {"SubTeamCode":"1003","SubTeamName":"A3","SubTeamStatus":false}
+        ],
+        "MDCode":"1047",
+        "MobileVoice":""
+    },{
+        "Empcode":"OSP635",
+        "NameTh":"อังศุมา  บัวแย้ม",
+        "NameEng":"Ms.Aungsuma  Buayam",
+        "DepartmentCode":"200500",                
+        "Department":"Online",
+        "ParentId":1,
+        "SubDeparment":"BI",    
+        "Position":"Business Analytics Assistant Manager",
+        "Email":"aungsuma.bua@gmmoshopping.com",
+        "Teamcode":"22001",
+        "SubTeamCode"[
+            {"SubTeamCode":"1001","SubTeamName":"A1","SubTeamStatus":true},
+            {"SubTeamCode":"1002","SubTeamName":"A2","SubTeamStatus":true},
+            {"SubTeamCode":"1003","SubTeamName":"A3","SubTeamStatus":false}
+        ],
+        "MDCode":"1047",
+        "MobileVoice":""
+    }]
+}

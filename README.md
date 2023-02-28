@@ -1,19 +1,18 @@
 #### Base environment
 - install vscode & extenstion
-    - REST Client
-    - Thuder Client
-    - Path Intellisense
-    - Prettier - Code formatter
-    - vscode-icons
-    - vue-format
+    - [Download & install](https://code.visualstudio.com)
+    - REST Client url: https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+    - Thuder Client url: https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client
+    - Path Intellisense url: https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
+    - Prettier - Code formatter url: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+    - vscode-icons url: https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
+    - vue-format url: https://marketplace.visualstudio.com/items?itemName=febean.vue-format
     - Go
-    - Drawio Preview
+    - Drawio Preview url: https://marketplace.visualstudio.com/items?itemName=purocean.drawio-preview
     - Draw.io Integration: Mermaid plugin
 
 - install git Desktop
-```
-    url :
-```
+    - url: https://desktop.github.com
 - install Docker desktop 
 ```
     url :

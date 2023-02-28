@@ -18,7 +18,7 @@
 - install Docker desktop 
     - [Download & install](https://www.docker.com/products/docker-desktop/)
 
-### set desktop for dev
+## Setting up the development environment 
 #### git clone environment for dev local
 ```
     git clone http://github.com/gmmoshopping/environment
@@ -26,9 +26,9 @@
     cd environment
     
 ```
-#### git clone go 
+#### git clone go boilerplate for start coding
 ```
-    git clone http://github.com/gmmoshopping/gomaster
+    git clone https://gitlab.com/osp-cs/order-management/golang-api-boilerplate.git
 ```
 
 ### set environment for dev in local 

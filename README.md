@@ -6,9 +6,9 @@
     - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
     - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
     - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
-    - [vue-format] (https://marketplace.visualstudio.com/items?itemName=febean.vue-format)
+    - [vue-format](https://marketplace.visualstudio.com/items?itemName=febean.vue-format)
     - [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go)
-    - [vscode-go-syntax]https://marketplace.visualstudio.com/items?itemName=dunstontc.vscode-go-syntax)
+    - [vscode-go-syntax](https://marketplace.visualstudio.com/items?itemName=dunstontc.vscode-go-syntax)
     - [Drawio Preview](https://marketplace.visualstudio.com/items?itemName=purocean.drawio-preview)
     - [Draw.io Integration: Mermaid plugin](https://marketplace.visualstudio.com/items?itemName=nopeslide.vscode-drawio-plugin-mermaid)
 
@@ -17,7 +17,7 @@
     - [Download & install Git](https://git-scm.com/download/win)
 - install Docker desktop 
     - [Download & install](https://www.docker.com/products/docker-desktop/)
-    
+
 ### set desktop for dev
 #### git clone environment for dev local
 ```

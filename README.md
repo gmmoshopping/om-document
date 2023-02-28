@@ -1,16 +1,15 @@
 #### Base environment
-- install vscode
-```
-    extenstion : REST Client
-    extenstion : Thuder Client
-    extenstion : Path Intellisense
-    extenstion : Prettier - Code formatter
-    extenstion : vscode-icons
-    extenstion : vue-format
-    extenstion : Go
-    extenstion : Drawio Preview
-    extenstion : Draw.io Integration: Mermaid plugin
-```
+- install vscode & extenstion
+    - REST Client
+    - Thuder Client
+    - Path Intellisense
+    - Prettier - Code formatter
+    - vscode-icons
+    - vue-format
+    - Go
+    - Drawio Preview
+    - Draw.io Integration: Mermaid plugin
+
 - install git Desktop
 ```
     url :
